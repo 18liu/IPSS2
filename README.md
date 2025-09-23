@@ -13,3 +13,18 @@ run sampling_alter.py
 ### Training IPSS^2
 Modify the configuration in config.py
 - Modify training and test dataset path
+
+
+## Citation
+**If you find this code is useful for  your research, please cite**:
+
+```latex
+@article{yan2025towards,
+  title={Towards Scalable and Efficient Full-Reference Omnidirectional Image Quality Assessment},
+  author={Yan, Jiebin and Liu, Zhiyong and Wang, Zhihua and Fang, Yuming and Liu, Hantao},
+  journal={IEEE Signal Processing Letters},
+  volume={32},
+  pages={2459-2463},
+  year={2025}
+}
+```
